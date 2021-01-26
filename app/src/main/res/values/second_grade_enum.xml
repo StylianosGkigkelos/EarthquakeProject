@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="check_array">
+        <item>Option for second grade check</item>
+        <item>HOSPITABLE</item>
+        <item>TEMPUNHOSPITABLE</item>
+        <item>UNHOSPITABLE</item>
+    </string-array>
+
+</resources>

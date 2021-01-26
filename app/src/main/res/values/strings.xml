@@ -1,0 +1,36 @@
+<resources>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDCzt-GhEUAXlPsZ3kfFhU312tTQijW8F0</string>
+    <string name="app_name">EarthquakeProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="map">Map</string>
+    <string name="login">Login</string>
+    <string name="list">List</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="Add">Add</string>
+    <string name="submit">Submit</string>
+    <string name="test">test</string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="new_user_sign_in">New User? Sign in</string>
+    <string name="email">E-Mail</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="already_have_an_account_log_in">Already have an account? Log in</string>
+    <string name="owners_name">Owner\'s Name</string>
+    <string name="owners_surname">Owner\'s Surname</string>
+    <string name="owners_phone">Owner\'s Phone</string>
+    <string name="building_s_name">Building\'s Name</string>
+    <string name="building_s_municipality">Building\'s Municipality</string>
+    <string name="building_s_street">Building\'s Street</string>
+    <string name="building_s_number">Building\'s Number</string>
+    <string name="number_of_storeys">Number of Storeys</string>
+    <string name="building_s_area">Building\'s Area</string>
+    <string name="number_of_apartments">Number of Apartments</string>
+    <string name="is_the_building_viable">Is the building viable?</string>
+    <string name="secondary_text">GradeCheck</string>
+    <string name="create_secondary_check">Create Secondary Check</string>
+    <string name="supporting_text">supporting text</string>
+    <string name="second_grade_check_s_description">Second Grade Check\'s Description</string>
+    <string name="condition_of_building_during_second_grade_check">Condition of the building during second grade check</string>
+</resources>

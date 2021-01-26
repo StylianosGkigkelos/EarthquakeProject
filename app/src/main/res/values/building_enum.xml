@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="building_array">
+        <item>INUSE</item>
+        <item>ABANDONED</item>
+        <item>STABLE</item>
+        <item>WORKSPACE</item>
+        <item>SCHOOL</item>
+        <item>HOTEL</item>
+    </string-array>
+
+</resources>
